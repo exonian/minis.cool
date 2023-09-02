@@ -5,7 +5,7 @@ theme: eternity
 googleAnalytics: '' # todo: set your analytics id.
 
 params:
-  image: /images/logo-wider-blue.png
+  image: /images/preview.png
   logo: logo.png # todo: add your custom logo to static/
   subtitle: Cool photos of cool minis
   # copyright: All rights reserved
@@ -23,7 +23,7 @@ params:
     - /
   bypassWelcomePage: true # redirects "/" to "homepage" when it's true.
   disableWelcomePageBackground: false # disables the background image on the homepage
-  plausible: 'santas.minis.cool'
+  plausible: 'minis.cool'
   disableRadius: true
   moveIt: false  # Moves Title and Meta info down, only visible when scroll.
   disableAlwaysResize: false
