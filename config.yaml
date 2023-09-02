@@ -1,0 +1,47 @@
+baseURL: https://minis.cool
+title: minis.cool
+defaultContentLanguage: 'en'
+theme: eternity
+googleAnalytics: '' # todo: set your analytics id.
+
+params:
+  image: /images/logo-wider-blue.png
+  logo: logo.png # todo: add your custom logo to static/
+  subtitle: Cool photos of cool minis
+  # copyright: All rights reserved
+  author: Michael Blatherwick
+  dontShowSource: false # please, do not do this :)
+  portfolio:
+    columns:
+      desktop:
+        photos: 3
+      mobile:
+        photos: 3
+  homepage: "/work/gallery" # homepage link, mostly same with menu.main[0]
+  specialPages:
+    - photos
+    - /
+  bypassWelcomePage: true # redirects "/" to "homepage" when it's true.
+  disableWelcomePageBackground: false # disables the background image on the homepage
+  plausible: 'santas.minis.cool'
+  disableRadius: true
+  moveIt: false  # Moves Title and Meta info down, only visible when scroll.
+  disableAlwaysResize: false
+
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: true
+
+taxonomies:
+  tag: tags
+
+permalinks:
+  work: ":filename/"
+
+# menu:
+#   main:
+#     - name: photos
+#       url: /
+#       weight: 1

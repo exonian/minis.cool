@@ -1,0 +1,8 @@
+html::-webkit-scrollbar {
+    display: block;
+}
+
+html {
+    -ms-overflow-style: -ms-autohiding-scrollbar;
+    scrollbar-width: auto;
+}
