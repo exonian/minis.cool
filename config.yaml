@@ -17,7 +17,7 @@ params:
         photos: 3
       mobile:
         photos: 3
-  homepage: "/work/gallery" # homepage link, mostly same with menu.main[0]
+  homepage: "/" # homepage link, mostly same with menu.main[0]
   specialPages:
     - photos
     - /
