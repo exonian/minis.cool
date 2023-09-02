@@ -1,4 +1,4 @@
-baseURL: https://minis.cool
+baseURL: https://minis-cool.vercel.app
 title: minis.cool
 defaultContentLanguage: 'en'
 theme: eternity
