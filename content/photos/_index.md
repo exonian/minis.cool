@@ -1,4 +1,4 @@
 ---
-title: photos
+title: minis
 url: "/"
 ---

@@ -14,12 +14,12 @@ params:
   portfolio:
     columns:
       desktop:
-        photos: 3
+        minis: 3
       mobile:
-        photos: 3
+        minis: 3
   homepage: "/" # homepage link, mostly same with menu.main[0]
   specialPages:
-    - photos
+    - minis
     - /
   bypassWelcomePage: true # redirects "/" to "homepage" when it's true.
   disableWelcomePageBackground: false # disables the background image on the homepage

@@ -6,5 +6,5 @@ images:
 - https://live.staticflickr.com/65535/52028769361_5aae53a2db_3k.jpg
 hideExif: true
 tags:
-- photos
+- minis
 ---

@@ -6,3 +6,7 @@ html {
     -ms-overflow-style: -ms-autohiding-scrollbar;
     scrollbar-width: auto;
 }
+
+.welcome-title {
+    color: var(--main-light)
+}
