@@ -1,5 +1,5 @@
 ---
-weight: 3
+weight: 7
 title: Witney Warhammer 3
 url: witney-warhammer-3
 images:
