@@ -5,4 +5,5 @@ sort_by: Name
 resources:
     - src: 0200-hours-14.jpg
       title: It's Barry Brengun!
+weight: 3
 ---

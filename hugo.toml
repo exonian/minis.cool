@@ -1,3 +1,5 @@
+copyright = "© Michael Blatherwick"
+
 [module]
   [module.hugoVersion]
     min = "0.121.2"
