@@ -7,6 +7,10 @@
     --grey: rgb(169, 169, 169);
 }
 
-h1 {
+h1, header a {
     color: var(--main-light)
+}
+
+header img.logo {
+    height: 2rem;
 }

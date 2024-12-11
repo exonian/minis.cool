@@ -1,4 +1,5 @@
 copyright = "by Michael Blatherwick"
+title = "minis.cool"
 
 [module]
   [module.hugoVersion]
@@ -10,3 +11,4 @@ copyright = "by Michael Blatherwick"
   defaultTheme = "dark"
   description = "My cool minis and my adventures with them"
   title = "minis.cool"
+  logo = "/images/logo.png"
