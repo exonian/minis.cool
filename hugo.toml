@@ -12,3 +12,8 @@ title = "minis.cool"
   description = "My cool minis and my adventures with them"
   title = "minis.cool"
   logo = "/images/logo.png"
+
+[menu]
+  [[menu.footer]]
+    name = "My warhammer websites"
+    url = "/websites"
